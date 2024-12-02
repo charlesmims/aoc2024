@@ -1,4 +1,6 @@
-
+/**
+ * Usage: deno run --allow-read day1.ts day1.input
+ */
 
 
 function readLists(filename:string): [number[], number[]] {
